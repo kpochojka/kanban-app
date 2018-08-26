@@ -1,11 +1,11 @@
-#Simply Kanban Productivity App
+# Simply Kanban Productivity App
 
 Technologies: HTML, CSS, jQuery, Ajax
 
 
 ![Screenshot](image/kanban.png)
 
-#Code Example
+# Code Example
 
 ![Screenshot](image/code-kanban.png)
 
